@@ -6,21 +6,21 @@
     {
       "name": "__DEPENDENCY_APP_NAME__",
       "version": "__^SEMVER__",
-      "preRelease": "false"
+      "preRelease": "only"
     }
   ],
   "modules": [
     {
       "name": "__MODULE_NAME__",
-      "version": "__^SEMVER__",
-      "preRelease": "false"
+      "version": "latest",
+      "preRelease": "only"
     }
   ],
   "uiModules": [
     {
       "name": "__UI_MODULE_NAME__",
-      "version": "__^SEMVER__",
-      "preRelease": "false"
+      "version": "latest",
+      "preRelease": "only"
     }
   ]
 }

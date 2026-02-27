@@ -7,12 +7,12 @@
     <artifactId>app-__APPNAME__</artifactId>
     <groupId>org.folio</groupId>
     <description>__APP_DESCRIPTION__</description>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
 
     <properties>
         <project.name>app-__APPNAME__</project.name>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <folio-application-generator.version>1.3.0</folio-application-generator.version>
+        <folio-application-generator.version>1.4.0-SNAPSHOT</folio-application-generator.version>
         <templatePath>${basedir}/application.template.json</templatePath>
     </properties>
 
