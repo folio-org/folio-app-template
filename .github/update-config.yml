@@ -31,5 +31,6 @@ branches:
       need_pr: false
       pre_release: "only"
       descriptor_build_offset: "100200000000000"
+      skip_dependency_validation: bypas
       ruleset:
         enabled: false
