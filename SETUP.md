@@ -129,3 +129,9 @@ git push
 - [ ] `snapshot` branch: application descriptor is published to FAR
 - [ ] `master` branch: `eureka-ci / validate-application` check passes
 - [ ] Slack notifications are received in your team channel
+
+## Workflows
+
+This repository ships four workflows (update scheduler, feature build, release version, release
+preparation). See [`.github/docs/workflows.md`](.github/docs/workflows.md) for what each does, its
+inputs, and links to the underlying reusable workflows.
