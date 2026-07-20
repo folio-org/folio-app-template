@@ -12,7 +12,7 @@
     <properties>
         <project.name>app-__APPNAME__</project.name>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <folio-application-generator.version>1.3.0</folio-application-generator.version>
+        <folio-application-generator.version>1.4.0</folio-application-generator.version>
         <templatePath>${basedir}/application.template.json</templatePath>
     </properties>
 
